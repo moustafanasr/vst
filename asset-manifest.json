@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/vst/static/css/main.74732778.css",
+    "main.js": "/vst/static/js/main.8ef7adfb.js",
+    "static/js/453.249ac7a1.chunk.js": "/vst/static/js/453.249ac7a1.chunk.js",
+    "static/media/galaxy6.jpg": "/vst/static/media/galaxy6.a363d104486a5b9682a0.jpg",
+    "static/media/galaxy5.jpg": "/vst/static/media/galaxy5.a00698254f8c4090e57c.jpg",
+    "static/media/galaxy9.jpg": "/vst/static/media/galaxy9.a6a51c35205750381e20.jpg",
+    "static/media/galaxy4.jpg": "/vst/static/media/galaxy4.30ecebefb0d9414fda7a.jpg",
+    "static/media/galaxy7.jpg": "/vst/static/media/galaxy7.456990f12d7821da3da6.jpg",
+    "static/media/galaxy3.jpg": "/vst/static/media/galaxy3.e8515a48ac95c863672b.jpg",
+    "static/media/galaxy1.jpg": "/vst/static/media/galaxy1.30e102a0ac88cd975465.jpg",
+    "static/media/galaxy2.jpg": "/vst/static/media/galaxy2.5f74ea0015e8a5e0956f.jpg",
+    "static/media/galaxy8.jpg": "/vst/static/media/galaxy8.446a1de129a86a50efea.jpg",
+    "index.html": "/vst/index.html",
+    "main.74732778.css.map": "/vst/static/css/main.74732778.css.map",
+    "main.8ef7adfb.js.map": "/vst/static/js/main.8ef7adfb.js.map",
+    "453.249ac7a1.chunk.js.map": "/vst/static/js/453.249ac7a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74732778.css",
+    "static/js/main.8ef7adfb.js"
+  ]
+}
